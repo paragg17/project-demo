@@ -1,2 +1,3 @@
 # project-demo
-learning github
+I am learning github , this is my first repository .
+My name is Parag Jain
